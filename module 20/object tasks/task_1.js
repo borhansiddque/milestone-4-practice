@@ -1,3 +1,4 @@
+// Access the --golden rod-- color value in output.
 const colors = {
     red: "#ff0000",
     green: "#00ff00",
